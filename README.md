@@ -30,9 +30,9 @@
 ## 🛠️ Quickstart
 
 ```bash
-git clone https://github.com/your-username/uzllm.git
+git clone https://github.com/ShohjahonObruyevOybekovich/UzLLM.git
 cd uzllm
-pip install -r requirements.txt
+pip install -r r.txt
 Prepare your dataset in .jsonl format:
 
 json
@@ -119,29 +119,3 @@ We're just getting started. If you're working with Uzbek NLP or LLMs — join us
 📜 License
 MIT — do whatever you want, just give credit.
 Made with ❤️ for O'zbek tilida AI rivoji uchun.
-
-✨ "Why wait for OpenAI to support Uzbek? Train your own."
-
-yaml
-Copy
-Edit
-
----
-
-## 💡 Next Steps I Can Help With
-
-- `train.py` and `infer.py` templates
-- Streamlit UI for chatting
-- HuggingFace Hub push setup (`transformers-cli`)
-- Dataset format validators
-
-Let me know if you want it zipped or deployed to GitHub — I’ll make it repo-ready 🚀
-
-
-
-
-
-
-
-
-Ask ChatGPT
